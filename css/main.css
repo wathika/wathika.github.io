@@ -165,7 +165,7 @@ body {
 }
 
 .pixelMe {
-  visibility: hidden;
+/*  visibility: hidden;*/
   height: 218px;
   width: 128px;
   margin: 0 auto;
