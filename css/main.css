@@ -166,10 +166,10 @@ body {
 
 .pixelMe {
 /*  visibility: hidden;*/
-  height: 218px;
-  width: 128px;
+  height: 256px;
+  width: 256px;
   margin: 0 auto;
-  background-image: url(../img/1.jpg);
+  background-image: url(../img/1.1.png);
 }
 
 i.service-icon {
