@@ -58,8 +58,11 @@ $(window).scroll(function() {
   });
 });
 
+
 jQuery.scrollDepth({
   elements: ['#portfolio', '#contact'],
   percentage: false,
   nonInteraction: false,
 });
+
+
