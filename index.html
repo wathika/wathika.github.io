@@ -20,20 +20,21 @@
 </head>
 
  <body>
- <!-- Side Menu-->
-   <div class="sidebar-wrapper">
-       <div>
-<!--
-           <ul>
-               <li>Home</li>
-               <li>About</li>
-               <li>Portfolio</li>
-               <li>ContactMe</li>
-           </ul>
--->
-       </div>
-
-   </div>
+<!-- Side Menu -->
+    <a id="menu-toggle" href="#" class="btn btn-primary btn-lg toggle"><i class="fa fa-reorder"></i></a>
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle" onClick="ga('send', '_trackEvent', 'Navbar', 'Toggle', 'Navbar toggle');"><i class="fa fa-times"></i></a>
+            <li class="sidebar-brand"><a href="#top">Viscount Wathika</a>
+            </li>
+            <li><a href="#about" onClick="ga('send', '_trackEvent', 'Navbar', 'About');">About</a>
+            </li>
+            <li><a href="#portfolio" onClick="ga('send', '_trackEvent', 'Navbar', 'Portfolio');">Portfolio</a>
+            </li>
+            <li><a href="#contact" onClick="ga('send', '_trackEvent', 'Navbar', 'Contact');">Contact</a>
+            </li>
+        </ul>
+    </div>
 <!-- End of side menu-->
 
 <!--  Full Page Image Header Area-->
@@ -51,11 +52,9 @@
             <ul class="list-inline spaced">
                 <li><a href="https://github.com/wathika" target="_blank" title="Github" alt="Github" onClick="ga('send', '_trackEvent', 'Links', 'Github', 'Github top');"><i class="fa fa-github fa-3x"></i></a>
                 </li>
-                <li><a href="#" target="_blank" title="Stackoverflow" alt="Stackoverflow" onClick="ga('send', '_trackEvent', 'Links', 'Stackoverflow', 'Stackoverflow top');"><i class="fa fa-stack-overflow fa-3x"></i></a>
-                </li>
                 <li><a href="#" target="_blank" title="LinkedIn" alt="LinkedIn" onClick="ga('send', '_trackEvent', 'Links', 'LinkedIn', 'LinkedIn top');"><i class="fa fa-linkedin fa-3x"></i></a>
                 </li>
-                <li><a href="vcwathika@gmail.com" title="Email me" alt="Email me" target="_blank" onClick="ga('send', '_trackEvent', 'Links', 'Email', 'Email top');"><i class="fa fa-envelope-o fa-3x"></i></a>
+                <li><a href="mailto:vcwathika@gmail.com" title="Email me" alt="Email me" target="_blank" onClick="ga('send', '_trackEvent', 'Links', 'Email', 'Email top');"><i class="fa fa-envelope-o fa-3x"></i></a>
                 </li>
                 <li><a href="#" target="_blank" class="resume space-m" onClick="ga('send', '_trackEvent', 'Links', 'Resume',                   'Resume top');">Resumé</a>
                 </li>
