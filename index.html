@@ -46,8 +46,11 @@
           <span class="long-word">I am</span>
           Viscount Wathika.
         </h1>
+                <div class="element">
                 <h3>Cutting edge web geek. Software Engineer. Startup fanatic.
-                  <span class=  "typed-cursor">|</span>.</h3>
+                </div>
+
+<!--                  <span class=  "typed-cursor">|</span>.</h3>-->
             </div>
             <ul class="list-inline spaced">
                 <li><a href="https://github.com/wathika" target="_blank" title="Github" alt="Github" onClick="ga('send', '_trackEvent', 'Links', 'Github', 'Github top');"><i class="fa fa-github fa-3x"></i></a>
@@ -99,6 +102,15 @@
 
     <!-- /Intro -->
 
+<div class="call-to-action">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <h2>Recent Work</h2>
+                </div>
+            </div>
+        </div>
+</div>
 
 <!-- Portfolio -->
     <div id="portfolio" class="callout">
@@ -107,7 +119,7 @@
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="img/mapd.jpg" alt="...">
+                    <img src="img/1.jpg" alt="...">
                     <div class="caption">
                         <h3>One</h3>
                         <p>Short Description of the <a href="#">website</a>. You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder.</p>
@@ -119,7 +131,7 @@
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
                     <div>
-                        <img src="img/pumpup.jpg" alt="...">
+                        <img src="img/1.jpg" alt="...">
                     </div>
                     <div class="caption">
                         <h3>Two</h3>
@@ -131,7 +143,7 @@
 
             <div class="col-sm-6 col-md-4">
                 <div class="thumbnail">
-                    <img src="img/ttc.jpg" alt="...">
+                    <img src="img/1.jpg" alt="...">
                     <div class="caption">
                         <h3>Three</h3>
                         <p>Normally, both your asses would be dead as fucking fried chicken, <a href="#">website name</a>.</p>
@@ -201,6 +213,16 @@
     <script src="js/jquery.scrolldepth.min.js"></script>
     <script src="js/bootstrap.js"></script>
     <script src="js/main.js"></script>
+
+     <script src="typed.js"></script>
+    <script>
+      $(function(){
+          $(".element").typed({
+            strings: ["First sentence.", "Second sentence."],
+            typeSpeed: 1
+          });
+      });
+    </script>
 
 </body>
 
