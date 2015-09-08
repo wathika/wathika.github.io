@@ -46,11 +46,14 @@
           <span class="long-word">I am</span>
           Viscount Wathika.
         </h1>
-                <div class="element">
-                <h3>Cutting edge web geek. Software Engineer. Startup fanatic.
-                </div>
+                <h3><span class="welcometext"></span>
+                    <span class=  "typed-cursor"></span></h3>
+<!--
+                <h3>
+                    Cutting edge web geek. Software Engineer. Startup fanatic.
+                </h3>
+-->
 
-<!--                  <span class=  "typed-cursor">|</span>.</h3>-->
             </div>
             <ul class="list-inline spaced">
                 <li><a href="https://github.com/wathika" target="_blank" title="Github" alt="Github" onClick="ga('send', '_trackEvent', 'Links', 'Github', 'Github top');"><i class="fa fa-github fa-3x"></i></a>
@@ -214,12 +217,12 @@
     <script src="js/bootstrap.js"></script>
     <script src="js/main.js"></script>
 
-     <script src="typed.js"></script>
+    <script src="js/typed.js"></script>
     <script>
       $(function(){
-          $(".element").typed({
-            strings: ["First sentence.", "Second sentence."],
-            typeSpeed: 1
+          $(".welcometext").typed({
+            strings: ["Cutting edge web geek.", "Software Engineer.", "Startup fanatic."],
+            typeSpeed: 0
           });
       });
     </script>
