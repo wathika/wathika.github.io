@@ -1,7 +1,6 @@
 # wathika.github.io
 
-My personal website....
+My personal website....[Live Demo](http://wathika.github.io "Live Demo")
 
 ##under construction
 
-##deleted for update
