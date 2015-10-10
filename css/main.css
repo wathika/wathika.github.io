@@ -250,7 +250,7 @@ i.service-icon {
   border: 5px solid white;
 }
 
-/*.caption {
+.caption {
     background:rgba(66, 139, 202, 0.75);
     width:100%;
     height:25%;
@@ -258,7 +258,7 @@ i.service-icon {
     text-align:center;
     color:#fff !important;
     z-index:2;
-}*/
+}
 
 .caption h4 {
   margin: 0 auto;
