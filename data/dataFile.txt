@@ -13,4 +13,4 @@ Contact me at <a href="mailto:vcwathika@gmail.com">me@viscount.xyz</a>!<br/>
 
 <div class="contButton" align="center"><a href="mainPage.html"><h4>-> continue to page <-</h4></a></div>
 <!-- owlsqweoifjifjqwoefijwef -->
-<span id="a">hoyojs@ubuntu</span>:<span id="b">~</span><span id="c">$</span>
+<span id="a">wathika@ubuntu</span>:<span id="b">~</span><span id="c">$</span>
