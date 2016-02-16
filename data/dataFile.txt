@@ -1,15 +1,15 @@
-﻿<span id="a">hoyojs@ubuntu</span>:<span id="b">~</span><span id="c">$</span> ./run<br/><br/>
-<p style="font-size: 2em">Juan Sebastian Hoyos Ayala</p><!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<span id="a">wathika@ubuntu</span>:<span id="b">~</span><span id="c">$</span> ./run<br/><br/>
+<p style="font-size: 2em">Viscount Corey Wathika</p><!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 
-Developer at <a href="http://aloalabs.com">AloaLabs, LLC</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+Developer at <a href="http://moringaschool.com">MoringaSchool</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-<strong><ins>Interests</ins></strong>: Origami, Algorithm optimization, Math, Android, Hispanic Literature, Hacks, Squash, Learning.<br\>
+<strong><ins>Interests</ins></strong>: Startups, Math, Android, Chinese Language, Gaming, Skateboarding, Learning.<br\>
 
-<strong><ins>Technical Skills</ins></strong>: C++; Java; Python; Bootstrap; HTML/CSS<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+<strong><ins>Technical Skills</ins></strong>: Ruby on Rails; Java; Python; JS; HTML/CSS<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-Need more info? <a href="/data/Resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+Need more info? <a href="/old/wathika_resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-Contact me at <a href="mailto:juan.s.hoyos@vanderbilt.edu">juan.s.hoyos@vanderbilt.edu</a>!<br/>
+Contact me at <a href="mailto:vcwathika@gmail.com">me@viscount.xyz</a>!<br/>
 
 <div class="contButton" align="center"><a href="mainPage.html"><h4>-> continue to page <-</h4></a></div>
 <!-- owlsqweoifjifjqwoefijwef -->
