@@ -1,6 +1,4 @@
-# wathika.github.io
+CodeMaelstrom
+Personal page - Where code, beauty, and experimentation merge
 
-My personal website....[Live Demo](http://wathika.github.io "Live Demo")
-
-##under construction
-
+This Page contains my personal data, and will be updated with personal projects and other posts I believe will help other programmers.
