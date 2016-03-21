@@ -11,6 +11,6 @@ Need more info? <a href="/old/wathika_resume.pdf">Resume</a><!- oqwipjefqwioefjw
 
 Contact me at <a href="mailto:vcwathika@gmail.com">me@viscount.xyz</a>!<br/>
 
-<div class="contButton" align="center"><a href="mainPage.html"><h4>-> continue to page <-</h4></a></div>
+<div class="contButton" align="center"><a href="/simpleWebsite/"><h4>-> continue to page <-</h4></a></div>
 <!-- owlsqweoifjifjqwoefijwef -->
 <span id="a">wathika@ubuntu</span>:<span id="b">~</span><span id="c">$</span>
