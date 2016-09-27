@@ -7,10 +7,10 @@ Developer at <a href="http://moringaschool.com">MoringaSchool</a><!- oqwipjefqwi
 
 <strong><ins>Technical Skills</ins></strong>: Ruby on Rails; Java; Python; JS; HTML/CSS<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-Need more info? <a href="/old/wathika_resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+Need more info? Check out my <a href="/old/wathika_resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-Contact me at <a href="mailto:vcwathika@gmail.com">me@viscount.xyz</a>!<br/>
+Shoot me an email at <a href="mailto:vcwathika@gmail.com">me@viscount.xyz</a>!<br/>
 
-<div class="contButton" align="center"><a href="/simpleWebsite/"><h4>-> continue to page <-</h4></a></div>
+<div class="contButton" align="center"><a href="/simpleWebsite/"><h4>-> sorry! my new online portfolio and blog is under construction. will be up soon. <-</h4></a></div>
 <!-- owlsqweoifjifjqwoefijwef -->
 <span id="a">wathika@ubuntu</span>:<span id="b">~</span><span id="c">$</span>
