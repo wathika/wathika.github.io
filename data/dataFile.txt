@@ -7,7 +7,7 @@ Developer at <a href="http://moringaschool.com">MoringaSchool</a><!- oqwipjefqwi
 
 <strong><ins>Technical Skills</ins></strong>: Ruby on Rails; Java; Python; JS; HTML/CSS<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-Need more info? Check out my <a href="/old/wathika_resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+Need more info? Check out my <a href="/data/wathika_resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
 Shoot me an email at <a href="mailto:vcwathika@gmail.com">me@viscount.xyz</a>!<br/>
 
