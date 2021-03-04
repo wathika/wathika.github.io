@@ -1,15 +1,21 @@
 <span id="a">wathika@ubuntu</span>:<span id="b">~</span><span id="c">$</span> ./run<br/><br/>
 <p style="font-size: 2em">Viscount Corey Wathika</p><!-- laglaglaglaglaglaglaglaglaglaglaglag --><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 
-Developer at <a href="http://moringaschool.com">MoringaSchool</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+Developer at <a href="#">Didi Inc. </a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-<strong><ins>Interests</ins></strong>: Startups, Linux, Math, Android, Chinese Language, Gaming, Skateboarding, Learning.<br\>
+<strong><ins>Interests</ins></strong>: Startups, Linux, Math, Android, Chinese Language, Gaming, Skateboarding, Learning, The Outdoors.
 
-<strong><ins>Technical Skills</ins></strong>: Ruby on Rails; Java; Python; JS; HTML/CSS<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+
+
+<br\>
+
+<strong><ins>Technical Skills</ins></strong>: Ruby on Rails; Javascript; Python.<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
 Need more info? Check out my <a href="/data/wathika_resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-Shoot me an email at <a href="mailto:vcwathika@gmail.com">me@viscount.xyz</a>!<br/>
+Shoot me an email at <a href="mailto:vcwathika@gmail.com">me@viscount.ninja
+
+</a>!<br/>
 
 <div class="contButton" align="center"><a href="/simpleWebsite/"><h4>-> sorry! my new online portfolio and blog is under construction. will be up soon. <-</h4></a></div>
 <!-- owlsqweoifjifjqwoefijwef -->
