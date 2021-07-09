@@ -3,20 +3,23 @@
 
 Developer at <a href="#">Didi Inc. </a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
+<strong><ins>Technical Skills</ins></strong>: Ruby on Rails; Javascript; Python.<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+
+
 <strong><ins>Interests</ins></strong>: Startups, Linux, Math, Android, Chinese Language, Gaming, Skateboarding, Learning, The Outdoors.
+
 
 
 
 <br\>
 
-<strong><ins>Technical Skills</ins></strong>: Ruby on Rails; Javascript; Python.<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
-Need more info? Check out my <a href="/data/wathika_resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
+Need a bit more on my professional experience? Check out my <a href="/data/wathika_resume.pdf">Resume</a><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi --><br\>
 
 Shoot me an email at <a href="mailto:vcwathika@gmail.com">me@viscount.ninja
 
 </a>!<br/>
 
-<div class="contButton" align="center"><a href="/simpleWebsite/"><h4>-> sorry! my new online portfolio and blog is under construction. will be up soon. <-</h4></a></div>
+<div class="contButton" align="center"><a href="/simpleWebsite/"><h4>-> An online portfolio and blog is under construction. Will be up soon. <-</h4></a></div>
 <!-- owlsqweoifjifjqwoefijwef -->
 <span id="a">wathika@ubuntu</span>:<span id="b">~</span><span id="c">$</span>
