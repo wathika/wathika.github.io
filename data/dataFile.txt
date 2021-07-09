@@ -20,6 +20,6 @@ Shoot me an email at <a href="mailto:vcwathika@gmail.com">me@viscount.ninja
 
 </a>!<br/>
 
-<div class="contButton" align="center"><a href="/simpleWebsite/"><h4>-> An online portfolio and blog is under construction. Will be up soon. <-</h4></a></div>
+<div class="contButton" align="center"><a href="/simpleWebsite/"><h4> _An online portfolio and blog is under construction. Will be up soon._ </h4></a></div>
 <!-- owlsqweoifjifjqwoefijwef -->
 <span id="a">wathika@ubuntu</span>:<span id="b">~</span><span id="c">$</span>
